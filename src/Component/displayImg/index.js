@@ -4,7 +4,8 @@ const DisplayImg = props => {
   return (
     <li>
       <img src={image} alt="match" />
-}
+
     </li>
   )
+}
 export default DisplayImg
