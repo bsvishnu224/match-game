@@ -1,0 +1,25 @@
+.nav-container {
+  background-color: #2c0e3a;
+  display: flex;
+  justify-content: space-between;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.app-logo {
+  width: 100px;
+  height: 50px;
+}
+.time-score-container {
+  display: flex;
+}
+.timer-container {
+  display: flex;
+  align-items: center;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+.timer-img {
+  width: 20px;
+  height: 20px;
+  margin-right:10px ;
+}

@@ -1,0 +1,23 @@
+.img-container {
+  display: flex;
+  justify-content: center;
+}
+.main-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/match-game-bg.png');
+  height: 100vh;
+  background-size: cover;
+}
+.imgItem-container {
+  display: flex;
+  list-style-type: none;
+  flex-wrap: wrap;
+}
+.gameover-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/match-game-score-card-lg-bg.png');
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
